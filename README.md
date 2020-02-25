@@ -11,3 +11,6 @@ This is an application that can be used to write, save, and delete notes. This a
 * One JSON package
 * Node Modules Folder
 * DB folder with two SQL files
+
+## View of Application
+![Image of Employee Tracker](./Assets/schema.png)
